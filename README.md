@@ -1,6 +1,6 @@
 # The official pre-view of CS-MoE
 
-- **Pre-print**: Please refer to [ResearchGate](https://www.researchgate.net/publication/402994336_Improving_Parameter_Utilization_by_Sharing_Neural_Experts_Across_Transformer_Layers) for the pre-print of our work. 
+- **Pre-print**: Please refer to [ResearchGate](https://www.researchgate.net/publication/402994336_Improving_Parameter_Utilization_by_Sharing_Neural_Experts_Across_Transformer_Layers) for the pre-print of our work (The ArXiv preprint is coming soon). 
 - **Paper**: Please refer to CS-MoE-view.pdf for the paper.
 - **Codes**: Codes and checkpoints will be public once official approval is received.
 
